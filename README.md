@@ -1,5 +1,9 @@
 # TravelFlix 
 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="resources/img/website-full.png" width="800px"/>
+</p>
+
 Projeto que visa criar uma interface simples para um site de viagens inspirado no conceito do design do serviço de streaming [Netflix](https://www.netflix.com).
 
 Desenvolvida durante o bootcamp Inter Frontend Developer, uma parceria do [Banco Inter](https://www.bancointer.com.br/) com a [Digital Innovation One](https://dio.me).
