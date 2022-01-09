@@ -12,12 +12,12 @@ Estudar e aplicar conhecimentos simples em HTML5, JavaScript e CSS3 visando uma 
 ## ⌨️ Instruções 
 - Clone este repositório no seu interpretador de comandos:
 ```bash
-    git clone https://github.com/volinha/flix-clone
+    git clone https://github.com/volinha/travelflix-page
 ```
 
 - Navegue até a pasta do projeto dentro da IDE
 ```bash
-    cd .\flix-clone\
+    cd .\travelflix-page\
 ```
 
 - Clique com o direito no arquivo `index.html` e clique em `Open With Live Server` e o projeto abrirá em uma aba do seu navegador. 
@@ -73,12 +73,12 @@ Study and apply basic knowledge in HTML5, JavaScript and CSS3 aiming a simple, r
 ## ⌨️ Instructions 
 - Clone this repo:
 ```bash
-    git clone https://github.com/volinha/flix-clone
+    git clone https://github.com/volinha/travelflix-page
 ```
 
 - Navigate to project root folder:
 ```bash
-    cd .\flix-clone\
+    cd .\travelflix-page\
 ```
 
 - Right-click `index.html` and choose `Open With Live Server` and the project will open in your web browser. 
